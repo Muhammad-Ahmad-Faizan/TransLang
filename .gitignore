@@ -1,0 +1,6 @@
+# Ignore virtual environment
+translator_env/
+# Ignore installed packages
+__pycache__/
+*.pyc
+*.pyo
