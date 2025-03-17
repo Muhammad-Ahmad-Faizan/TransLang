@@ -36,22 +36,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-## 🚀 **Deployment on Streamlit Cloud**  
-1. Push your project to **GitHub**.  
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/) and log in.  
-3. Click **"New App"** → Select your repository.  
-4. Choose the branch and enter `app.py` as the main file.  
-5. Click **Deploy** 🚀.  
-
-## 🔄 **Updating the App**  
-Whenever you update your code, push changes to GitHub:  
-```bash
-git add .
-git commit -m "Updated features"
-git push origin main
-```
-Streamlit Cloud will automatically redeploy the updated version.  
-
 ## 👨‍💻 **Author**  
 Muhammad Ahmad Faizan – *Data & Software Engineer*  
